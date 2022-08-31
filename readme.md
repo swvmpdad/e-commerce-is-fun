@@ -23,7 +23,7 @@ A back end database manager for an E-Commerce site
 - Run 'npm start' to access the seeded database
 
 ## Demonstration
-[video link](https://app.castify.com/view/b4005c1b-cbfa-4cc5-b30f-bdb64a7877bc)
+[Walkthrough Video](https://app.castify.com/view/b4005c1b-cbfa-4cc5-b30f-bdb64a7877bc)
 
 Made by William Campbell.
 Find me on GitHub @ [swvmpdad](https://github.com/swvmpdad)
